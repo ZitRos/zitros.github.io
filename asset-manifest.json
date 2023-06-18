@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ff2a65f6.css",
-    "main.js": "/static/js/main.a3da8b01.js",
+    "main.js": "/static/js/main.2e662a0f.js",
     "static/media/slide-3-background.jpg": "/static/media/slide-3-background.a1472ac8f32c6f5e5da3.jpg",
     "static/media/slide-0-avatar.jpg": "/static/media/slide-0-avatar.77de90540093c6ec04d6.jpg",
     "static/media/slide-0-background.jpg": "/static/media/slide-0-background.807d3e37f6d291087c29.jpg",
@@ -26,6 +26,7 @@
     "static/media/adobe-phonegap.svg": "/static/media/adobe-phonegap.f47e2a447ef75b9c57419f296ed4f6b7.svg",
     "static/media/trophy.svg": "/static/media/trophy.52b5328a6b29b22815a77ac3b02bc81e.svg",
     "static/media/bash.svg": "/static/media/bash.cc0bb078d83a359e29d148bba601324c.svg",
+    "static/media/dataunlocker.svg": "/static/media/dataunlocker.48a734501e3724c1335da62c93b8745a.svg",
     "static/media/instagram.svg": "/static/media/instagram.09ae52576df7d00c45e624270d4ffdce.svg",
     "static/media/badge.svg": "/static/media/badge.0e88baabd83a6f3af836bd9cc6df7415.svg",
     "static/media/revolut.svg": "/static/media/revolut.27f8ae41681863511faee89615781d46.svg",
@@ -43,9 +44,9 @@
     "static/media/docker.svg": "/static/media/docker.778df94ba6cf22ac0bd6d7b8d4137f69.svg",
     "static/media/mortarboard.svg": "/static/media/mortarboard.1b61078e685cad260d96bf035eee8de6.svg",
     "static/media/telegram.svg": "/static/media/telegram.608a4fe44e95a1476c59dff8a6dbaa40.svg",
-    "static/media/decash.svg": "/static/media/decash.6c038bfe1baba172613be7b15e3ce799.svg",
     "static/media/javascript.svg": "/static/media/javascript.d09fe080bddc5112a06af1394722bb71.svg",
     "static/media/csharp.svg": "/static/media/csharp.c3c3569d582a66f59db25e97dc677fc5.svg",
+    "static/media/decash.svg": "/static/media/decash.2b6f4d647e0afc11a779aa77d5ee4e55.svg",
     "static/media/pen.svg": "/static/media/pen.86373e44cea180e93782bd28c7b0d16e.svg",
     "static/media/google.svg": "/static/media/google.8bdb470b6399c369e2bf0fb67f31e52c.svg",
     "static/media/adobe-photoshop.svg": "/static/media/adobe-photoshop.3e794cc973271dace029a4ed82df197e.svg",
@@ -96,10 +97,10 @@
     "static/media/intersystems.svg": "/static/media/intersystems.f9a3631a84549e60da4d82226a4ec317.svg",
     "static/media/windows.svg": "/static/media/windows.34e628a71fb151f1d4e5c5283fa613a6.svg",
     "main.ff2a65f6.css.map": "/static/css/main.ff2a65f6.css.map",
-    "main.a3da8b01.js.map": "/static/js/main.a3da8b01.js.map"
+    "main.2e662a0f.js.map": "/static/js/main.2e662a0f.js.map"
   },
   "entrypoints": [
     "static/css/main.ff2a65f6.css",
-    "static/js/main.a3da8b01.js"
+    "static/js/main.2e662a0f.js"
   ]
 }
